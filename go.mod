@@ -13,7 +13,7 @@ require (
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pelletier/go-toml/v2 v2.2.3
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/shirou/gopsutil/v3 v3.23.10
+	github.com/shirou/gopsutil/v3 v3.24.5
 	github.com/xtls/xray-core v1.8.4
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.19.0
@@ -82,7 +82,7 @@ require (
 	github.com/valyala/fasthttp v1.57.0 // indirect
 	github.com/valyala/fastjson v1.6.4 // indirect
 	github.com/xtls/reality v0.0.0-20231010003020-da6c695a34db // indirect
-	github.com/yusufpapurcu/wmi v1.2.3 // indirect
+	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925 // indirect
 	golang.org/x/arch v0.6.0 // indirect
 	golang.org/x/crypto v0.28.0 // indirect
