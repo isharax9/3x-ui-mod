@@ -5,7 +5,7 @@ toolchain go1.22.5
 
 require (
 	github.com/Calidity/gin-sessions v1.3.1
-	github.com/Workiva/go-datastructures v1.1.1
+	github.com/Workiva/go-datastructures v1.1.5
 	github.com/gin-gonic/gin v1.9.1
 	github.com/goccy/go-json v0.10.2
 	github.com/mymmrac/telego v0.31.4
