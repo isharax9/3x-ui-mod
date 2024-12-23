@@ -7,7 +7,7 @@ require (
 	github.com/Calidity/gin-sessions v1.3.1
 	github.com/Workiva/go-datastructures v1.1.5
 	github.com/gin-gonic/gin v1.9.1
-	github.com/goccy/go-json v0.10.2
+	github.com/goccy/go-json v0.10.4
 	github.com/mymmrac/telego v0.31.4
 	github.com/nicksnyder/go-i18n/v2 v2.4.1
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
