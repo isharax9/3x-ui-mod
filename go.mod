@@ -16,7 +16,7 @@ require (
 	github.com/shirou/gopsutil/v3 v3.24.5
 	github.com/xtls/xray-core v1.250306.0
 	go.uber.org/atomic v1.11.0
-	golang.org/x/text v0.24.0
+	golang.org/x/text v0.25.0
 	google.golang.org/grpc v1.72.0
 	gorm.io/driver/sqlite v1.5.7
 	gorm.io/gorm v1.26.1
@@ -84,7 +84,7 @@ require (
 	golang.org/x/exp v0.0.0-20240531132922-fd00a4e0eefc // indirect
 	golang.org/x/mod v0.21.0 // indirect
 	golang.org/x/net v0.37.0 // indirect
-	golang.org/x/sync v0.13.0 // indirect
+	golang.org/x/sync v0.14.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	golang.org/x/tools v0.26.0 // indirect
