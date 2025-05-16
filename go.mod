@@ -1,6 +1,7 @@
 module x-ui
 
-go 1.21
+go 1.24
+
 toolchain go1.24.1
 
 require (
@@ -17,7 +18,7 @@ require (
 	github.com/xtls/xray-core v1.250306.0
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.25.0
-	google.golang.org/grpc v1.72.0
+	google.golang.org/grpc v1.72.1
 	gorm.io/driver/sqlite v1.5.7
 	gorm.io/gorm v1.26.1
 )
