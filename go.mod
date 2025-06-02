@@ -7,7 +7,7 @@ require (
 	github.com/Workiva/go-datastructures v1.1.5
 	github.com/gin-gonic/gin v1.10.1
 	github.com/goccy/go-json v0.10.5
-	github.com/mymmrac/telego v1.1.0
+	github.com/mymmrac/telego v1.1.1
 	github.com/nicksnyder/go-i18n/v2 v2.6.0
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pelletier/go-toml/v2 v2.2.4
