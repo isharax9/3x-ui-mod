@@ -17,7 +17,7 @@ require (
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.25.0
 	google.golang.org/grpc v1.72.2
-	gorm.io/driver/sqlite v1.5.7
+	gorm.io/driver/sqlite v1.6.0
 	gorm.io/gorm v1.30.0
 )
 
