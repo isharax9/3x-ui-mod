@@ -67,7 +67,7 @@ jobs:
         run: tar -zcvf x-ui-linux-${{ matrix.platform }}.tar.gz x-ui
         
       - name: Upload
-        uses: svenstaro/upload-release-action@2.10.0
+        uses: svenstaro/upload-release-action@2.11.1
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ github.ref }}
