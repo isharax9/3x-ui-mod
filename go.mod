@@ -16,7 +16,7 @@ require (
 	github.com/xtls/xray-core v1.250911.0
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.29.0
-	google.golang.org/grpc v1.75.1
+	google.golang.org/grpc v1.76.0
 	gorm.io/driver/sqlite v1.6.0
 	gorm.io/gorm v1.31.0
 )
@@ -90,7 +90,7 @@ require (
 	golang.org/x/tools v0.36.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250707201910-8d1bb00bc6a7 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250804133106-a7a43d27e69b // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
 	gvisor.dev/gvisor v0.0.0-20250428193742-2d800c3129d5 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
