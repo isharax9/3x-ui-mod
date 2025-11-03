@@ -4,7 +4,7 @@ go 1.25
 
 require (
 	github.com/Calidity/gin-sessions v1.3.1
-	github.com/Workiva/go-datastructures v1.1.6
+	github.com/Workiva/go-datastructures v1.1.7
 	github.com/gin-gonic/gin v1.11.0
 	github.com/goccy/go-json v0.10.5
 	github.com/mymmrac/telego v1.3.1
