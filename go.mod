@@ -13,7 +13,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/xtls/xray-core v1.251015.0
+	github.com/xtls/xray-core v1.251201.0
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.31.0
 	google.golang.org/grpc v1.77.0
@@ -48,7 +48,6 @@ require (
 	github.com/juju/ratelimit v1.0.2 // indirect
 	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
-	github.com/kr/text v0.2.0 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20230326075908-cb1d2100619a // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
@@ -58,8 +57,8 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pires/go-proxyproto v0.8.1 // indirect
 	github.com/power-devops/perfstat v0.0.0-20221212215047-62379fc7944b // indirect
-	github.com/quic-go/qpack v0.5.1 // indirect
-	github.com/quic-go/quic-go v0.55.0 // indirect
+	github.com/quic-go/qpack v0.6.0 // indirect
+	github.com/quic-go/quic-go v0.57.1 // indirect
 	github.com/refraction-networking/utls v1.8.1 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/rogpeppe/go-internal v1.14.1 // indirect
@@ -81,12 +80,12 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/arch v0.20.0 // indirect
-	golang.org/x/crypto v0.43.0 // indirect
+	golang.org/x/crypto v0.44.0 // indirect
 	golang.org/x/mod v0.29.0 // indirect
-	golang.org/x/net v0.46.1-0.20251013234738-63d1a5100f82 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.37.0 // indirect
-	golang.org/x/time v0.7.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/tools v0.38.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173 // indirect
