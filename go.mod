@@ -7,7 +7,7 @@ require (
 	github.com/Workiva/go-datastructures v1.1.7
 	github.com/gin-gonic/gin v1.11.0
 	github.com/goccy/go-json v0.10.5
-	github.com/mymmrac/telego v1.3.3
+	github.com/mymmrac/telego v1.4.0
 	github.com/nicksnyder/go-i18n/v2 v2.6.1
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pelletier/go-toml/v2 v2.2.4
@@ -73,7 +73,7 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.68.0 // indirect
-	github.com/valyala/fastjson v1.6.5 // indirect
+	github.com/valyala/fastjson v1.6.7 // indirect
 	github.com/vishvananda/netlink v1.3.1 // indirect
 	github.com/vishvananda/netns v0.0.5 // indirect
 	github.com/xtls/reality v0.0.0-20251014195629-e4eec4520535 // indirect
