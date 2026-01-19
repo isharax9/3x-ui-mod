@@ -1,6 +1,6 @@
 module x-ui
 
-go 1.25.5
+go 1.25.6
 
 require (
 	github.com/Calidity/gin-sessions v1.3.1
@@ -13,7 +13,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/xtls/xray-core v1.260113.0
+	github.com/xtls/xray-core v1.260118.0
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.33.0
 	google.golang.org/grpc v1.78.0
@@ -60,7 +60,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20221212215047-62379fc7944b // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.57.1 // indirect
-	github.com/refraction-networking/utls v1.8.1 // indirect
+	github.com/refraction-networking/utls v1.8.2 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	github.com/sagernet/sing v0.5.1 // indirect
