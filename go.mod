@@ -1,6 +1,6 @@
 module x-ui
 
-go 1.25.6
+go 1.25.7
 
 require (
 	github.com/Calidity/gin-sessions v1.3.1
@@ -13,7 +13,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/xtls/xray-core v1.260204.0
+	github.com/xtls/xray-core v1.260206.0
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.34.0
 	google.golang.org/grpc v1.78.0
